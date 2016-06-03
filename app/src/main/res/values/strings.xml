@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpiderTask1</string>
+    <string name="inc_but">Increase</string>
+    <string name="dec_but">Decrease</string>
+</resources>
